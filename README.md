@@ -7,4 +7,5 @@
 👀 I’m interested in learning more in Software Engineering and perfecting my craft
 🌱 I’m currently learning Java and Software Engineering
 📫 Email: athi.dlambulo0001@gmail.com
+☎️Phone: 0762273175
 -->
